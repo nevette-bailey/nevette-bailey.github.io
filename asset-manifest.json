@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.04e9aa0d.chunk.js",
-    "main.js.map": "/static/js/main.04e9aa0d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.00860db1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.00860db1.js.map",
-    "static/js/2.4ddfe278.chunk.js": "/static/js/2.4ddfe278.chunk.js",
-    "static/js/2.4ddfe278.chunk.js.map": "/static/js/2.4ddfe278.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.639b7a629c45ab247da3210e8b5f9620.js": "/precache-manifest.639b7a629c45ab247da3210e8b5f9620.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4ddfe278.chunk.js.LICENSE.txt": "/static/js/2.4ddfe278.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/nevette-bailey.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nevette-bailey.github.io/static/js/main.8ab7ded2.chunk.js",
+    "main.js.map": "/nevette-bailey.github.io/static/js/main.8ab7ded2.chunk.js.map",
+    "runtime-main.js": "/nevette-bailey.github.io/static/js/runtime-main.6e7f8c74.js",
+    "runtime-main.js.map": "/nevette-bailey.github.io/static/js/runtime-main.6e7f8c74.js.map",
+    "static/js/2.4ddfe278.chunk.js": "/nevette-bailey.github.io/static/js/2.4ddfe278.chunk.js",
+    "static/js/2.4ddfe278.chunk.js.map": "/nevette-bailey.github.io/static/js/2.4ddfe278.chunk.js.map",
+    "index.html": "/nevette-bailey.github.io/index.html",
+    "precache-manifest.8e010f94359ef7835a94b5f5858d8283.js": "/nevette-bailey.github.io/precache-manifest.8e010f94359ef7835a94b5f5858d8283.js",
+    "service-worker.js": "/nevette-bailey.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nevette-bailey.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4ddfe278.chunk.js.LICENSE.txt": "/nevette-bailey.github.io/static/js/2.4ddfe278.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nevette-bailey.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00860db1.js",
+    "static/js/runtime-main.6e7f8c74.js",
     "static/js/2.4ddfe278.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.04e9aa0d.chunk.js"
+    "static/js/main.8ab7ded2.chunk.js"
   ]
 }
