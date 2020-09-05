@@ -2,7 +2,7 @@
   "name": "nevette-bailey.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nevette-bailey.github.io/",
+  "homepage": "http://nevette-bailey.github.io/nevette-bailey.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
